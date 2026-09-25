@@ -207,6 +207,11 @@ export default function ElementosStudio({
 
         if (
             texto.includes("pallete") ||
+            texto.includes("pallet") ||
+            texto.includes("palete") ||
+            texto.includes("palet") ||
+            texto.includes("caixa") ||
+            texto.includes("caixas") ||
             texto.includes("mesa") ||
             texto.includes("cadeira") ||
             texto.includes("armario") ||
