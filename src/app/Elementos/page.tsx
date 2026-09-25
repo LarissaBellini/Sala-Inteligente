@@ -122,5 +122,5 @@ export default function ElementosPage() {
             assets={assets}
         />
     );
->>>>>>> 415f6a0ee0d3853d4eb0460840a112922f3ab011
+
 }
