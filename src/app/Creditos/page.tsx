@@ -189,5 +189,5 @@ export default function Creditos() {
 
     </main>
   );
->>>>>>> 415f6a0ee0d3853d4eb0460840a112922f3ab011
+
 }
