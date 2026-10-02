@@ -62,7 +62,7 @@ export default function Home() {
 
       <div>
         <GLBStudio
-          mainGlbSrc="/assets/animacoes/salaReal.glb"
+          mainGlbSrc="/assets/animacoes/sala.glb"
           availableAssets={availableAssets}
         />
       </div>
