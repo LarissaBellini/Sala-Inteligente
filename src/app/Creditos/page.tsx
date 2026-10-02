@@ -62,7 +62,7 @@ export default function Creditos() {
 
         <p>
           Conheça os professores e alunos envolvidos no desenvolvimento
-          deste projeto!
+          deste projeto.
         </p>
       </div>
 
